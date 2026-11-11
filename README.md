@@ -47,16 +47,10 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ble-Natthan-Yothanong-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ble-Natthan-Yothanong-Dev&theme=tokyo-night&hide_border=true" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=Ble-Natthan-Yothanong-Dev&theme=tokyonight&hide_border=true" height="165" />
 </div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ble-Natthan-Yothanong-Dev&show_icons=true&theme… alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ble-Natthan-Yothanong-Dev&layout=com… alt="Top Languages" height="150" />
-</div>
-
 
 
 ---
