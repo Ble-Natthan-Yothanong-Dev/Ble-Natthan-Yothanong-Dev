@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi there, I'm Ble-Natthan-Yothanong-Dev<span type="placeholder" placeholder-type="person"></span> 👋
 
-<!--
-**Ble-Natthan-Yothanong-Dev/Ble-Natthan-Yothanong-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 Computer Science Student at University OF Phayao**<span type="placeholder" placeholder-type="place"></span>**
+- 💡 Interested in **Web Development**
+- 🎯 Current Goal:  Development and  Applications
+- 💬 Ask me about **Python, and Web Frameworks**
+
+
+
+---
+
+
+
+### 🛠️ Tech Stack & Tools
+
+
+
+#### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+
+#### Frameworks & Libraries
+
+
+
+
+
+#### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+---
+
+
+
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ble-Natthan-Yothanong-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+</div>
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ble-Natthan-Yothanong-Dev&show_icons=true&theme… alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ble-Natthan-Yothanong-Dev&layout=com… alt="Top Languages" height="150" />
+</div>
+
+
+
+---
+
+
+
+### 📫 Connect with Me
+
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.cloud.microsoft/mail/)
+
+ 
