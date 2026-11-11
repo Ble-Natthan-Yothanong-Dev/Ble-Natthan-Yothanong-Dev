@@ -31,6 +31,7 @@
 
 
 #### Frameworks & Libraries
+![Languages](https://img.shields.io/badge/Languages-None-red?style=for-the-badge)
 
 
 
