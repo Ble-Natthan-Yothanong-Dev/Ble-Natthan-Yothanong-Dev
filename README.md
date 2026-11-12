@@ -47,9 +47,12 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ble-Natthan-Yothanong-Dev&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SirisakChaiwut&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SirisakChaiwut&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
+ 
   <br /><br />
-  <img src="https://streak-stats.demolab.com?user=Ble-Natthan-Yothanong-Dev&theme=tokyonight&hide_border=true" height="165" />
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirisakChaiwut&theme=tokyonight&hide_border=true%22 width="50%" />
 </div>
 
 
@@ -62,4 +65,4 @@
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.cloud.microsoft/mail/)
 
  
-### I Have 2 Wife.
+### Thk...
