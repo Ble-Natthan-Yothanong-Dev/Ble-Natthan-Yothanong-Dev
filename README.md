@@ -2,7 +2,7 @@
 
 
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me ผมตั้งชื่อผิดครับจารย์เปลี่ยนเป็น Natthan Yothawong ครับ
 - 🎓 Computer Science Student at University OF Phayao**<span type="placeholder" placeholder-type="place"></span>**
 - 💡 Interested in **Web Development**
 - 🎯 Current Goal:  Development and  Applications
